@@ -31,15 +31,13 @@ Control the snake to eat the food and grow in size. The game ends if the snake c
    ```bash
    py main.py
 
+## Code Structure
+
+- `main.py`: Main game file containing the logic and setup.
 
 ## Screenshots
 
 ![Screenshot 2024-12-20 205756](https://github.com/user-attachments/assets/b2369e29-a959-4ed0-a52f-861baa90a6f8)
-
-
-## Code Structure
-
-- `main.py`: Main game file containing the logic and setup.
 
 ## Controls
 
