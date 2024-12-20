@@ -30,4 +30,37 @@ Control the snake to eat the food and grow in size. The game ends if the snake c
 2. Run the main file:  
    ```bash
    py main.py
-    
+
+
+## Screenshots
+
+![Screenshot 2024-12-20 205756](https://github.com/user-attachments/assets/b2369e29-a959-4ed0-a52f-861baa90a6f8)
+
+
+## Code Structure
+
+- `main.py`: Main game file containing the logic and setup.
+
+## Controls
+
+| Player | Move Up     |
+|--------|-------------|
+| Left   | `Left Arrow`|
+| Right  |`Right Arrow`|
+| Up     | `Up Arrow`  |
+| Down   | `Down Arrow`|
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## Acknowledgments
+
+- Inspired by the classic Snake game.
+- Built using the [Turtle graphics library](https://docs.python.org/3/library/turtle.html) in Python.
+
+---
+
+Enjoy playing the Snake Game! 🐍
+
+
